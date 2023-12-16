@@ -42,7 +42,7 @@
   .dept{
     text-align: center;  
     display: inline-block; 
-    background-color: lemonchiffon;
+    background-color: rgb(253, 253, 253);
   }
 
   .topnav a {
@@ -55,12 +55,12 @@
     font-size: 17px;
   }
   .topnav a:hover, .dropdown:hover .dropbtn {
-    background-color: #fefba4;
-    color: white;
+    background-color:rgb(127, 217, 247);
+    color: black;
   } 
   .dropdown-content a:hover {
-    background-color: #fefba4;
-    color: white;
+    background-color:rgb(127, 217, 247);
+    color: black;
   } 
   .dropdown:hover .dropdown-content {
     display: table;
@@ -108,7 +108,7 @@
     padding: 10px;
     box-sizing: border-box;
     margin-bottom: 20px;
-    background-color: #f8f8f8;
+    background-color:lightcyan;
     text-align: center;
 }
 
