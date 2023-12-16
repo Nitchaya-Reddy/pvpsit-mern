@@ -133,8 +133,8 @@
     cursor: pointer;
 }
 .box button:hover {
-  background-color: #83f28f; 
-  color:greenyellow;
+  background-color: none; 
+  color:none;
 }
 .ccontainer {
   display: flex;
