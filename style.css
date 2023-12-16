@@ -120,9 +120,9 @@
 .box button {
   display: block;
   margin-top: 20px;
-  background-color: #99fff8;
+  background-color: #ff99f8;
   color: black;
-  border: 2px solid #009dff;
+  border: 2px solid #ea00ff;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -134,7 +134,7 @@
 }
 .box button:hover {
   background-color: #83f28f; 
-  color: white;
+  color:greenyellow;
 }
 .ccontainer {
   display: flex;
